@@ -1,0 +1,66 @@
+{
+    "responseCode": 1,
+    "responseText": "City Report",
+    "payload": {
+        "id": "1",
+        "city": "Ho Chi Minh",
+        "country": "Vietnam",
+        "report": {
+            "projects": [
+                {
+                    "name": "Project A",
+                    "totalCompleteRatio": "90%",
+                    "devices": [
+                        {
+                            "name": "Device A",
+                            "step": "Data Entry",
+                            "complete": "50%"
+                        },
+                        {
+                            "name": "Device B",
+                            "step": "Document Review",
+                            "complete": "70%"
+                        },
+                        {
+                            "name": "Device C",
+                            "step": "Prepare to launch",
+                            "complete": "90%"
+                        }
+                    ]
+                },
+                {
+                    "name": "Project B",
+                    "totalCompleteRatio": "60%",
+                    "devices": [
+                        {
+                            "name": "Device A1",
+                            "step": "Data Entry",
+                            "complete": "50%"
+                        },
+                        {
+                            "name": "Device B1",
+                            "step": "Data Entry",
+                            "complete": "60%"
+                        }
+                    ]
+                },
+                {
+                    "name": "Project C",
+                    "totalCompleteRatio": "100%",
+                    "devices": [
+                        {
+                            "name": "Device A",
+                            "step": "Launched",
+                            "complete": "100%"
+                        },
+                        {
+                            "name": "Device B1",
+                            "step": "Launched",
+                            "complete": "100%"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

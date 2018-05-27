@@ -1,0 +1,50 @@
+{
+    "responseCode": 1,
+    "responseText": "City Report",
+    "payload": [
+        {
+            "id": "1",
+            "city": "Ho Chi Minh",
+            "completeRatio": "90%",
+            "numberOfDevice": 5,
+            "topProjects": [
+                "Project A",
+                "Project B",
+                "Project C"
+            ]
+        },
+        {
+            "id": "2",
+            "city": "California",
+            "completeRatio": "100%",
+            "numberOfDevice": 15,
+            "topProjects": [
+                "Project A1",
+                "Project B1",
+                "Project C1"
+            ]
+        },
+        {
+            "id": "3",
+            "city": "Paris",
+            "completeRatio": "45%",
+            "numberOfDevice": 8,
+            "topProjects": [
+                "Project A1",
+                "Project B",
+                "Project C2"
+            ]
+        },
+        {
+            "id": "4",
+            "city": "melbourne",
+            "completeRatio": "70%",
+            "numberOfDevice": 3,
+            "topProjects": [
+                "Project A",
+                "Project B",
+                "Project C"
+            ]
+        }
+    ]
+}
